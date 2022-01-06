@@ -1,0 +1,22 @@
+inherit_gem:
+  rubocop-shopify: rubocop.yml
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Style/MethodCallWithArgsParentheses:
+  IgnoredMethods:
+    - assert
+    - assert_equal
+    - assert_includes
+    - assert_nil
+    - assert_raises
+    - puts
+    - raise
+    - refute
+    - refute_empty
+    - refute_nil
+    - require
+    - require_dependency
+    - require_relative
+    - yield
