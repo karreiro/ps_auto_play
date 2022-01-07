@@ -1,6 +1,6 @@
 # PS auto play
 
-PS auto play relies on the PS Remote Play app to control PS5 games. Currently, this repository is just a proof of concept for sending commands from macOS to PS5.
+PS auto play relies on the PS Remote Play app to control PS4/PS5 games. Currently, this repository is just a proof of concept for sending commands from macOS to PS4/PS5.
 
 There's still some work pending as keyboard keys cannot trigger not all dual sense buttons.
 
